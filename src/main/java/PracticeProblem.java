@@ -1,3 +1,10 @@
+/**
+ * File: PracticeProblem Methods
+ * Author: Alfred Yang
+ * Date Created: Mar 10, 2026
+ * Date Last Modified: Mar 10, 2026
+ */
+
 public class PracticeProblem {
 
 	public static void main(String args[]) {
